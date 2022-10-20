@@ -1,0 +1,15 @@
+R:\VSCode\Day5Problems\Day5Problem\bin\Debug\net6.0\Day5Problem.exe
+R:\VSCode\Day5Problems\Day5Problem\bin\Debug\net6.0\Day5Problem.deps.json
+R:\VSCode\Day5Problems\Day5Problem\bin\Debug\net6.0\Day5Problem.runtimeconfig.json
+R:\VSCode\Day5Problems\Day5Problem\bin\Debug\net6.0\Day5Problem.dll
+R:\VSCode\Day5Problems\Day5Problem\bin\Debug\net6.0\Day5Problem.pdb
+R:\VSCode\Day5Problems\Day5Problem\obj\Debug\net6.0\Day5Problem.csproj.AssemblyReference.cache
+R:\VSCode\Day5Problems\Day5Problem\obj\Debug\net6.0\Day5Problem.GeneratedMSBuildEditorConfig.editorconfig
+R:\VSCode\Day5Problems\Day5Problem\obj\Debug\net6.0\Day5Problem.AssemblyInfoInputs.cache
+R:\VSCode\Day5Problems\Day5Problem\obj\Debug\net6.0\Day5Problem.AssemblyInfo.cs
+R:\VSCode\Day5Problems\Day5Problem\obj\Debug\net6.0\Day5Problem.csproj.CoreCompileInputs.cache
+R:\VSCode\Day5Problems\Day5Problem\obj\Debug\net6.0\Day5Problem.dll
+R:\VSCode\Day5Problems\Day5Problem\obj\Debug\net6.0\refint\Day5Problem.dll
+R:\VSCode\Day5Problems\Day5Problem\obj\Debug\net6.0\Day5Problem.pdb
+R:\VSCode\Day5Problems\Day5Problem\obj\Debug\net6.0\Day5Problem.genruntimeconfig.cache
+R:\VSCode\Day5Problems\Day5Problem\obj\Debug\net6.0\ref\Day5Problem.dll
